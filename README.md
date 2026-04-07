@@ -1,4 +1,5 @@
 # Flight Dashboard (飞行仪表盘 / 姿态仪) ✈️
+<img width="4096" height="1520" alt="8bc24adaf6523fa68de40099ae4c386b" src="https://github.com/user-attachments/assets/25fe8abb-0aa5-4681-92a3-e4b7b42c4295" />
 
 ## 📖 项目简介
 
@@ -27,6 +28,11 @@
       * **屏幕适配**: 240x280 彩色 TFT 屏幕（SPI 高速驱动）。
 
 -----
+![2ae45a44c11238e04cae7ef38fb884ec](https://github.com/user-attachments/assets/5e14dd4e-feb6-4c98-8ea4-dee050257e35)
+![1d5a1c842bcbf543f0f4d62fefa5ecee](https://github.com/user-attachments/assets/9bd1b51a-1482-426b-9fe5-a49b7eb158bd)
+![09a5ebdd4a727978722f5ba995b00a17](https://github.com/user-attachments/assets/bcf776fc-fca4-4732-9f02-6aca183fe7fd)
+![9e0f775d01c6461abc960d8cc254dbb6](https://github.com/user-attachments/assets/bc00e90b-122c-403b-a98b-8daf31dfa95f)
+<img width="4094" height="2302" alt="9a2172571f3c6bb6a2c156c7f1abf3e3" src="https://github.com/user-attachments/assets/8a8a6244-ef5a-4c16-9d29-b8dcb1b3e8f2" />
 
 ## 🛠️ 技术实现与核心架构 (深度解析)
 
