@@ -106,5 +106,3 @@
 本项目内置依赖的第三方库（TFT\_eSPI, U8g2, MAVLink, Adafruit\_GFX 等）均遵循其原作者的开源许可证（如 GPL、BSD 等）。详细信息请查阅 `libraries/` 各子目录下的 `LICENSE` 文件。
 
 -----
-
-*Developed with ❤️ for the UAV & Flight Simulation Community.*
