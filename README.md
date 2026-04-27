@@ -33,7 +33,7 @@
 ![09a5ebdd4a727978722f5ba995b00a17](https://github.com/user-attachments/assets/bcf776fc-fca4-4732-9f02-6aca183fe7fd)
 ![9e0f775d01c6461abc960d8cc254dbb6](https://github.com/user-attachments/assets/bc00e90b-122c-403b-a98b-8daf31dfa95f)
 <img width="4094" height="2302" alt="9a2172571f3c6bb6a2c156c7f1abf3e3" src="https://github.com/user-attachments/assets/8a8a6244-ef5a-4c16-9d29-b8dcb1b3e8f2" />
-![Uploading PCB_PCB1_1.1_2026-04-27.png…]()
+<img width="2160" height="1633" alt="PCB_PCB1_1 1_2026-04-27" src="https://github.com/user-attachments/assets/2cc50ca8-7897-4253-a46b-4638582ad6be" />
 <img width="2362" height="1672" alt="SCH_Schematic1_1 1_1-P1_2026-04-27" src="https://github.com/user-attachments/assets/3a47a63f-052f-4a63-9d52-516d2c47e69f" />
 
 ## 🛠️ 技术实现与核心架构 (深度解析)
